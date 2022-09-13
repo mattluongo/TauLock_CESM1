@@ -17,9 +17,10 @@ Note that these mods of course don't change some of the other specifics for your
 Please reach out to me at mluongo(at)ucsd(dot)edu if you have any questions about these code modifications or the workflow.
 
 Matt Luongo
-Scripps Institution of Oceanography
-University of California, San Diego
+
+Scripps Institution of Oceanography, UCSD
+
+La Jolla, CA 
 
 09/13/2022
-La Jolla, CA 
 
