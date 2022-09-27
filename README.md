@@ -1,8 +1,10 @@
 # TauLock_CESM
 
-This directory provides modified source code files for CESM 1.2.2.1 to implement the wind stress overriding protocol introduced in Luongo et al. (2022). DOI: https://doi.org/10.1175/JCLI-D-21-0950.1. When using this source code, please cite the following reference:
+This directory provides modified source code files for CESM 1.2.2.1 to implement the wind stress overriding protocol introduced in Luongo et al. (2022). When using this source code, please cite the following references (for both the article and the code itself):
 
-Luongo, Matthew T., Shang-Ping Xie, and Ian Eisenman. "Buoyancy Forcing Dominates the Cross-Equatorial Ocean Heat Transport Response to Northern Hemisphere Extratropical Cooling." Journal of Climate (2022): 1-46.
+Luongo, M.T., Xie, S.-P., and Eisenman, I., 2022. Buoyancy Forcing Dominates the Cross-Equatorial Ocean Heat Transport Response to Northern Hemisphere Extratropical Cooling. Journal of Climate, 35(20), pp. 3071-3090. doi: https://doi.org/10.1175/JCLI-D-21-0950.1
+
+Luongo, M.T., Xie, S.-P., Eisenman, I., (2022). GCM Modification Code from: Buoyancy Forcing Dominates the Cross-Equatorial Ocean Heat Transport Response to Northern Hemisphere Extratropical Cooling. UC San Diego Library Digital Collections. doi: https://doi.org/10.6075/J09P31TF
 
 Here, I provide a quick README to make heads or tails of these mods. If you want to see the few dozen lines out of the many thousands of lines of base code that I changed to create this protocol, I suggest just searching "Luongo" in the files. I tried to comment near each line with my name and the date. 
 
