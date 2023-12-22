@@ -4073,7 +4073,7 @@ subroutine ccsm_run()
                    yy = yy + 1
                ! Read in hist x2o file
                write(hist_x2o_file,"(a,i2.2,a,i2.2,a,i5.5,a)") &
-                   '/glade/scratch/mluongo/Ctrl_CPLOutputYr/run/Ctrl_CPLOutputYr.cpl.x2o_oo.',mm,'-',dd,'-',curr_tod,'.nc' ! removed year in file name to replace with daily climatological values ! Matt Luongo 09/12/2022
+                   '/glade/scratch/USERNAME/CASE/run/CASE.cpl.x2o_oo.',mm,'-',dd,'-',curr_tod,'.nc' ! removed year in file name to replace with daily climatological values ! Matt Luongo 09/12/2022
                call seq_cdata_setptrs(cdata_ox,gsmap=gsmap)
                call seq_io_read(hist_x2o_file,gsmap_ox,x2o_ov_oo,'x2o_oo')
                !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
